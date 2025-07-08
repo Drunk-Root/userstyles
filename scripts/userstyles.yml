@@ -572,11 +572,11 @@ userstyles:
     color: text
     current-maintainers: []
   mozhi:
-  name: Mozhi
-  link: https://codeberg.org/aryak/mozhi
-  categories: [Translator]
-  color: blue
-  current-maintainers: [*Drunk-Root] 
+    name: Mozhi
+    link: https://codeberg.org/aryak/mozhi
+    categories: [Translator]
+    color: blue
+    current-maintainers: [*Drunk-Root] 
   mullvad-leta:
     name: Mullvad Leta
     link: https://leta.mullvad.net
